@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build outputs (if you don't want to track them)
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Don't track build outputs in LFS
+# Remove this if you want to track builds
+dist/
