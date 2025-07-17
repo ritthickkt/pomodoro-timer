@@ -1,7 +1,7 @@
 # Dependencies
 node_modules/
 
-# Build outputs (if you don't want to track them)
+# Build outputs
 dist/
 build/
 
@@ -14,16 +14,5 @@ Thumbs.db
 .idea/
 
 # Logs
+*.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Optional: Don't track build outputs in LFS
-# Remove this if you want to track builds
-dist/
