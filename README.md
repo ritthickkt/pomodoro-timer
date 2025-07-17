@@ -49,4 +49,3 @@ Built apps will be in the `dist/` folder.
 
 - Electron
 - HTML/CSS/JavaScript
-- Node.js
